@@ -1,4 +1,5 @@
 #!/bin/bash
-git pull https://github.com/Kavex/KerriganMC.git
+echo Pulling Master Branch of KerriganMC
+git pull -b master https://github.com/Kavex/KerriganMC.git
 rm KerriganMC.zip
 zip -r KerriganMC.zip *
