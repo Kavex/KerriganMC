@@ -3,7 +3,7 @@ set MCVER=1.10.2
 set JARFILE=minecraft_server.%MCVER%.jar
 set LAUNCHWRAPPERVERSION=1.12
 set LAUNCHWRAPPER=net\minecraft\launchwrapper\%LAUNCHWRAPPERVERSION%\launchwrapper-%LAUNCHWRAPPERVERSION%.jar
-set FORGEJAR=FTBserver-1.10.2-12.18.3.2316.jar
+set FORGEJAR=forge-1.10.2-12.18.3.2477-universal.jar
 
 rem can be changed by user
 set MIN_RAM=512M
