@@ -1,8 +1,8 @@
 # KerriganMC
 Custom Modpack for Minecraft 
 
-Technic Pack: https://www.technicpack.net/modpack/kerriganmc.983987
+Technic Pack: 
 
-Changelog: https://www.technicpack.net/modpack/kerriganmc.983987/changelog
+Changelog: 
 
 How-to: https://github.com/Kavex/KerriganMC/wiki/Downloading-Modpack
