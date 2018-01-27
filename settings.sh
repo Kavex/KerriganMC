@@ -14,7 +14,7 @@ export MCVER="1.10.2"
 export JARFILE="minecraft_server.${MCVER}.jar"
 export LAUNCHWRAPPERVERSION="1.12"
 export LAUNCHWRAPPER="net/minecraft/launchwrapper/${LAUNCHWRAPPERVERSION}/launchwrapper-${LAUNCHWRAPPERVERSION}.jar"
-export FORGEJAR="Server-1.10.2-12.18.3.2254-universal.jar"
+export FORGEJAR="FTBserver-1.10.2-12.18.3.2316.jar"
 
 ###################################################
 # Default arguments for JVM

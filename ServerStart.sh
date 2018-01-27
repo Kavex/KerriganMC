@@ -31,7 +31,7 @@ start_server() {
 # run install script if MC server or launchwrapper s missing
 if [ ! -f ${JARFILE} -o ! -f libraries/${LAUNCHWRAPPER} ]; then
     echo "Missing required jars. Running install script!"
-    sh ./Install.sh
+    sh ./FTBInstall.sh
 fi
 
 # check eula.txt
